@@ -9,7 +9,7 @@ Red River Gorge National Geological Area
 ![Cloud Splitter](basemap/Layout.jpg)
 
 ## Animation
-![Thumbnail](basemap/cloudsplittervidthumb.JPG)
+![Thumbnail](basemap/cloudsplittervidthumb.JPG)    
 [Link](https://www.youtube.com/watch?v=GEmvFAPYNb4)
 
 
