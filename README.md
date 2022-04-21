@@ -12,5 +12,6 @@ Red River Gorge National Geological Area
 ![Thumbnail](basemap/cloudsplittervidthumb.JPG)    
 [Link](https://www.youtube.com/watch?v=GEmvFAPYNb4)
 
+[Take a tour](tour)
 
 <https://saraharoach.github.io/rrg/>
